@@ -5,7 +5,7 @@ Files and folders:
 
 1. traffic_analysis.ipynb - Jupyter notebook with all Python codes (basically one may copy only this file). 
    
-   NB! Some sections ("Polling all TRPs in Norway" ~ one hour) take a long time to run
+   NB! Some sections (section "Polling all TRPs in Norway" runs ca. one hour) take a long time to run
    
 2. ./figures - it is where all the figures are saved
 3. ./maps_for_kepler.gl - folder with two maps for kepler.gl (*.json) and examples (*.png):
