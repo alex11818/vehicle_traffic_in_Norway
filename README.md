@@ -4,10 +4,11 @@ A study of vehicle traffic in Norway based on data obtained via API of The Norwe
 Files and folders:
 
 1. traffic_analysis.ipynb - Jupyter notebook with all Python codes (basically one may copy only this file)
-2. ./figures - self-explainatory
+2. ./figures - it is where all the figures are saved
 3. ./maps_for_kepler.gl - folder with two maps for kepler.gl (*.json) and examples (*.png):
     - TRP_map.json - map of TRPs (Traffic Registration Points) in Norway
     - YoY_traffic_comparison_map.json - maps with YoY comparison of vechichle traffic in Norway (2020.07.27 to 2019.07.27)
+    
     Notes on use of Kepler.GL (very easy):
           1. go to Kepler.GL
           2. press "GET STARTED"
