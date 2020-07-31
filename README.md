@@ -1,5 +1,5 @@
 # vehicle_traffic_in_Norway
-A study of vehicle traffic in Norway based on data obtained via an API of The Norwegian Public Roads Administration
+A study of vehicle traffic in Norway based on data obtained via API of The Norwegian Public Roads Administration
 
 Files and folders:
 
@@ -15,13 +15,13 @@ Files and folders:
 
 4.   *.pkl - pickle files with data and results (2020.07.27). 
      It is not obligatory to copy them. But if they are missed or deleted, at launch of the notebook the traffic data will be requested/processed anew (it takes ca. hour).
-      "TDD_Randaberg.pkl" - traffic data for TRPs in Randaberg kommune
-      "TDD_ALL.pkl" - traffic data for all TRPs in Norway
-      "norway_vehicles.pkl" - processing results
-      "norway_bicycles.pkl" - processing results
+      - "TDD_Randaberg.pkl" - traffic data for TRPs in Randaberg kommune
+      - "TDD_ALL.pkl" - traffic data for all TRPs in Norway
+      - "norway_vehicles.pkl" - processing results
+      - "norway_bicycles.pkl" - processing results
 
 5.  *.logs - log files of traffic data requests
 
 6. *.csv:
-    TRP.csv - a csv file with coordinates of TRPs in Norway. May be visualized by Kepler.GL
-    TRP_YoY.csv - a csv file with coordinates of TRPs in Norway. May be visualized by Kepler.GL
+    - TRP.csv - a csv file with coordinates of TRPs in Norway. May be visualized by Kepler.GL
+    - TRP_YoY.csv - a csv file with coordinates of TRPs in Norway. May be visualized by Kepler.GL
