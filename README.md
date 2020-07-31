@@ -24,5 +24,4 @@ Files and folders:
 
 6. *.csv:
     TRP.csv - a csv file with coordinates of TRPs in Norway. May be visualized by Kepler.GL
-    
     TRP_YoY.csv - a csv file with coordinates of TRPs in Norway. May be visualized by Kepler.GL
