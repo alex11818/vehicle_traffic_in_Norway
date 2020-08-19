@@ -30,4 +30,6 @@ Files and folders:
       - "norway_vehicles.pkl" - processing results
       - "norway_bicycles.pkl" - processing results
 
-
+6. requirements.txt - list of the required packages.
+   the packages can be installed (in JupyterLab) by: 
+   !pip install -r requirements.txt 
