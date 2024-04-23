@@ -4,5 +4,5 @@ channels:
 dependencies:
   - pandas
   - matplotlib
-  - scipy
+  - numpy
   - xlwt
