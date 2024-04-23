@@ -1,0 +1,8 @@
+name: traffic
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - scipy
+  - xlwt
